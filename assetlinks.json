@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.r4.renta4.des",
+    "sha256_cert_fingerprints":
+    ["08:7E:D7:3E:80:2F:8D:39:40:7F:51:71:84:DD:B1:E3:C2:57:39:80:A5:62:9A:D3:13:1F:E5:7F:F6:00:C8:BB"]
+  }
+}]
